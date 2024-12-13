@@ -3,7 +3,7 @@
 This document provides a detailed description of all the API endpoints for the project.
 
 ---
-
+http://10.220.99.3:10000 
 ## **Endpoints**
 
 ### **1. Register User**
